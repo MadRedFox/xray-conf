@@ -112,7 +112,11 @@
     "domain:igcdn.com",
     "domain:ig.me",
     "domain:fbcdn.net",
-    "geosite:google"
+    "geosite:google",
+    "domain:zsa.io",
+    "domain:ergodox-ez.com",
+    "domain:typ.ing",
+    "domain:oryx.nyc3.digitaloceanspaces.com"
   ],
   "ProxyIp": [
     "geoip:telegram"
