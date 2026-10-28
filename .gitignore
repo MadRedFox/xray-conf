@@ -1,0 +1,5 @@
+# Ignore files by default, but traverse directories for incy.json.
+*
+!*/
+!/.gitignore
+!incy.json
